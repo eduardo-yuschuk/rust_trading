@@ -1,0 +1,13 @@
+[package]
+name = "text_io_playground"
+version = "0.1.0"
+authors = ["user"]
+edition = "2018"
+
+[dependencies]
+common = { path = "../common" }
+configuration = { path = "../configuration" }
+text_io = { path = "../text_io" }
+serde = "1.0.71"
+serde_derive = "1.0.71"
+bincode = "1.0.1"

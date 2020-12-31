@@ -1,0 +1,14 @@
+[package]
+name = "indicators_comparison"
+version = "0.1.0"
+authors = ["Eduardo Yuschuk <eduardo.yuschuk@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+common = { path = "../common" }
+configuration = { path = "../configuration" }
+binary_io = { path = "../binary_io" }
+indicators_building = { path = "../indicators_building" }
+indicators = { path = "../indicators" }

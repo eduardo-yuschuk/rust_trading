@@ -1,0 +1,14 @@
+[package]
+name = "concurrency_learning"
+version = "0.1.0"
+authors = ["Eduardo Yuschuk <eduardo.yuschuk@gmail.com>"]
+
+[dependencies]
+chan = "0.1.21"
+postgres = "0.15.2"
+
+
+
+
+
+

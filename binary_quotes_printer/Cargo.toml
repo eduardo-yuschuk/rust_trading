@@ -1,0 +1,9 @@
+[package]
+name = "binary_quotes_printer"
+version = "0.1.0"
+authors = ["Eduardo Yuschuk <eduardo.yuschuk@gmail.com>"]
+
+[dependencies]
+common = { path = "../common" }
+configuration = { path = "../configuration" }
+binary_io = { path = "../binary_io" }

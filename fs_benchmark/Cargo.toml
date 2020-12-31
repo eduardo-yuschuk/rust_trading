@@ -1,0 +1,13 @@
+[package]
+name = "fs_benchmark"
+version = "0.1.0"
+authors = ["Eduardo Yuschuk <eduardo.yuschuk@gmail.com>"]
+
+[dependencies]
+common = { path = "../common" }
+binary_io = { path = "../binary_io" }
+configuration = { path = "../configuration" }
+fs = { path = "../fs" }
+
+
+

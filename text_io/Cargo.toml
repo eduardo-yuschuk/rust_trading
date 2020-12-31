@@ -1,0 +1,9 @@
+[package]
+name = "text_io"
+version = "0.1.0"
+authors = ["Eduardo Yuschuk <eduardo.yuschuk@gmail.com>"]
+
+[dependencies]
+common = { path = "../common" }
+configuration = { path = "../configuration" }
+

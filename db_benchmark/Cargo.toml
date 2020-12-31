@@ -1,0 +1,18 @@
+[package]
+name = "db_benchmark"
+version = "0.1.0"
+authors = ["Eduardo Yuschuk <eduardo.yuschuk@gmail.com>"]
+
+[dependencies]
+common = { path = "../common" }
+configuration = { path = "../configuration" }
+binary_io = { path = "../binary_io" }
+db = { path = "../db" }
+postgres = "0.15.2"
+postgres-shared = "0.4.2"
+getopts = "0.2.18"
+args = "2.2.0"
+
+
+
+

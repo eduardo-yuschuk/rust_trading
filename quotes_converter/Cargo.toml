@@ -1,0 +1,8 @@
+[package]
+name = "quotes_converter"
+version = "0.1.0"
+authors = ["Eduardo Yuschuk <eduardo.yuschuk@gmail.com>"]
+
+[dependencies]
+text_to_binary = { path = "../text_to_binary" }
+

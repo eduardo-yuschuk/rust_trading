@@ -1,0 +1,11 @@
+[package]
+name = "configuration"
+version = "0.1.0"
+authors = ["Eduardo Yuschuk <eduardo.yuschuk@gmail.com>"]
+
+[dependencies]
+os_info = "1.0.1"
+
+
+
+

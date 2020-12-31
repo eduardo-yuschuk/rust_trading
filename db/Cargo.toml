@@ -1,0 +1,13 @@
+[package]
+name = "db"
+version = "0.1.0"
+authors = ["Eduardo Yuschuk <eduardo.yuschuk@gmail.com>"]
+
+[dependencies]
+common = { path = "../common" }
+postgres = "0.15.2"
+enum_primitive = "0.1.1"
+num = "0.2.0"
+
+
+

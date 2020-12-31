@@ -1,0 +1,12 @@
+[package]
+name = "binary_io"
+version = "0.1.0"
+authors = ["Eduardo Yuschuk <eduardo.yuschuk@gmail.com>"]
+
+[dependencies]
+common = { path = "../common" }
+configuration = { path = "../configuration" }
+serde = "1.0.71"
+serde_derive = "1.0.71"
+bincode = "1.0.1"
+

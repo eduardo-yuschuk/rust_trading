@@ -1,0 +1,19 @@
+[package]
+name = "execution"
+version = "0.1.0"
+authors = ["Eduardo Yuschuk <eduardo.yuschuk@gmail.com>"]
+
+[dependencies]
+#quotes_file_publisher = { path = "../quotes_file_publisher" }
+common = { path = "../common" }
+configuration = { path = "../configuration" }
+db = { path = "../db" }
+#chrono = "0.4.4"
+#scan_fmt = "0.1.3"
+time = "0.1.40"
+datetime = "0.4.7"
+#os_type = "2.0.0"
+os_info = "1.0.1"
+postgres = "0.15.2"
+getopts = "0.2.18"
+args = "2.2.0"

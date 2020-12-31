@@ -1,0 +1,12 @@
+[package]
+name = "backtester_playground"
+version = "0.1.0"
+authors = ["Eduardo Yuschuk <eduardo.yuschuk@gmail.com>"]
+
+[dependencies]
+common = { path = "../common" }
+configuration = { path = "../configuration" }
+backtester = { path = "../backtester" }
+text_to_binary = { path = "../text_to_binary" }
+bars_building = { path = "../bars_building" }
+indicators_building = { path = "../indicators_building" }

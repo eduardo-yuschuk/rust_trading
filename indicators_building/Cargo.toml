@@ -1,0 +1,18 @@
+[package]
+name = "indicators_building"
+version = "0.1.0"
+authors = ["Eduardo Yuschuk <eduardo.yuschuk@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+common = { path = "../common" }
+configuration = { path = "../configuration" }
+binary_io = { path = "../binary_io" }
+serde = "1.0.71"
+serde_derive = "1.0.71"
+bincode = "1.0.1"
+ta-lib-wrapper = "0.1.1"
+enum_primitive = "0.1.1"
+text_to_binary = { path = "../text_to_binary" }
+bars_building = { path = "../bars_building" }
+

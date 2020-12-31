@@ -1,0 +1,8 @@
+[package]
+name = "data_frame_playground"
+version = "0.1.0"
+authors = ["Eduardo Yuschuk <eduardo.yuschuk@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+data_frame = { path = "../data_frame" }

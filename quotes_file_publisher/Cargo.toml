@@ -1,0 +1,15 @@
+[package]
+name = "quotes_file_publisher"
+version = "0.1.0"
+authors = ["Eduardo Yuschuk <eduardo.yuschuk@gmail.com>"]
+
+[dependencies]
+common = { path = "../common" }
+configuration = { path = "../configuration" }
+text_io = { path = "../text_io" }
+os_info = "1.0.1"
+time = "0.1.40"
+datetime = "0.4.7"
+getopts = "0.2.18"
+args = "2.2.0"
+

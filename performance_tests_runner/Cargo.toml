@@ -1,0 +1,10 @@
+[package]
+name = "performance_tests_runner"
+version = "0.1.0"
+authors = ["Eduardo Yuschuk <eduardo.yuschuk@gmail.com>"]
+
+[dependencies]
+num-derive = "0.2.2"
+num-traits = "0.2.5"
+
+
